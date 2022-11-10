@@ -1,1 +1,1 @@
-# Gym-administration-app
+# gym-administration-app
